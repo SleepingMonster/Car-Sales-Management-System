@@ -1,0 +1,14 @@
+﻿  Car_sale.cpp
+d:\college\数据库\实验\final_project\car_sale\car_sale\car_sale.cpp(16): warning C4244: “初始化”: 从“my_ulonglong”转换到“unsigned int”，可能丢失数据
+Car_sale.obj : error LNK2019: 无法解析的外部符号 _mysql_num_rows@4，该符号在函数 "int __cdecl create_course_table(void)" (?create_course_table@@YAHXZ) 中被引用
+Car_sale.obj : error LNK2019: 无法解析的外部符号 _mysql_error@4，该符号在函数 "int __cdecl insert_rows_into_course_table(void)" (?insert_rows_into_course_table@@YAHXZ) 中被引用
+Car_sale.obj : error LNK2019: 无法解析的外部符号 _mysql_init@4，该符号在函数 _main 中被引用
+Car_sale.obj : error LNK2019: 无法解析的外部符号 _mysql_real_connect@32，该符号在函数 _main 中被引用
+Car_sale.obj : error LNK2019: 无法解析的外部符号 _mysql_query@8，该符号在函数 "int __cdecl create_course_table(void)" (?create_course_table@@YAHXZ) 中被引用
+Car_sale.obj : error LNK2019: 无法解析的外部符号 _mysql_store_result@4，该符号在函数 _main 中被引用
+Car_sale.obj : error LNK2019: 无法解析的外部符号 _mysql_list_tables@8，该符号在函数 "int __cdecl create_course_table(void)" (?create_course_table@@YAHXZ) 中被引用
+Car_sale.obj : error LNK2019: 无法解析的外部符号 _mysql_options@12，该符号在函数 _main 中被引用
+Car_sale.obj : error LNK2019: 无法解析的外部符号 _mysql_free_result@4，该符号在函数 "int __cdecl create_course_table(void)" (?create_course_table@@YAHXZ) 中被引用
+Car_sale.obj : error LNK2019: 无法解析的外部符号 _mysql_close@4，该符号在函数 _main 中被引用
+C:\Program Files\MySQL\MySQL Server 5.7\lib\libmysql.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\College\数据库\实验\final_project\Car_sale\Debug\Car_sale.exe : fatal error LNK1120: 10 个无法解析的外部命令

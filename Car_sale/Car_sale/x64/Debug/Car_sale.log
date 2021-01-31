@@ -1,0 +1,7 @@
+﻿  Car_sale.cpp
+d:\college\数据库\实验\final_project\car_sale\car_sale\car_sale.cpp(19): warning C4244: “初始化”: 从“my_ulonglong”转换到“unsigned int”，可能丢失数据
+d:\college\数据库\实验\final_project\car_sale\car_sale\car_sale.cpp(48): warning C4244: “初始化”: 从“my_ulonglong”转换到“unsigned int”，可能丢失数据
+d:\college\数据库\实验\final_project\car_sale\car_sale\car_sale.cpp(77): warning C4244: “初始化”: 从“my_ulonglong”转换到“unsigned int”，可能丢失数据
+d:\college\数据库\实验\final_project\car_sale\car_sale\car_sale.cpp(106): warning C4244: “初始化”: 从“my_ulonglong”转换到“unsigned int”，可能丢失数据
+d:\college\数据库\实验\final_project\car_sale\car_sale\car_sale.cpp(137): warning C4244: “初始化”: 从“my_ulonglong”转换到“unsigned int”，可能丢失数据
+  Car_sale.vcxproj -> D:\College\数据库\实验\final_project\Car_sale\x64\Debug\Car_sale.exe
